@@ -1,0 +1,25 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de Node JS",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Deiven@bitbucket.org/Deiven/guia-hoteles.git"
+  },
+  "author": "Juan David Ruiz M",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Deiven/guia-hoteles#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
